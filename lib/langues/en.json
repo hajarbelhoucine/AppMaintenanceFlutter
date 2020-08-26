@@ -1,0 +1,32 @@
+{
+    "app_name": "Flutter Localization",
+    "home_page": "Home Page",
+    "about_page": "About Us",
+    "about_app": "This is a test app showing how to Change language in flutter without restarting the app",
+    "note": "This is a test note",
+    "go_to_about": "Go to About ",
+    "english": "English",
+    "farsi": "فارسی",
+    "french": "francais",
+    "change_language": "Change Language",
+    "Home": "Home",
+    "Logout": "Logout",
+    "Settings": "Settings",
+    "Statistics": "Statistics",
+    "Categories": "Categories",
+    "Description": "Digital Advisor offers a solution to minimize the downtime of supply chain shutdowns for producers in factories, a real headache for companies and causing great financial losses",
+    "Digital Mobile Application" : "Digital Mobile Application",
+    "Choose language": "Choose language",
+    "Language": "Language",
+    "Display mode": "Display mode",
+    "Enter machine category": "Enter machine category",
+    "Enter machine name": "Enter machine name",
+    "Acceleration -X": "Acceleration -X",
+    "Acceleration -Y": "Acceleration -Y",
+    "Acceleration -Z": "Acceleration -Z",
+    "Roll": "Roll",
+    "Pitch": "Pitch",
+
+
+    "Add": "Add"
+}
